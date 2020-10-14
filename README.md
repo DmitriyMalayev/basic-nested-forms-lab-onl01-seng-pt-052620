@@ -1,3 +1,21 @@
+`Dependencies` (gems, packages)
+`Configuration` (environment variables / other stuff in config folder) 
+`Database` 
+
+`Models` 
+`Recipe`
+`Ingredient` 
+
+Views
+
+
+Controllers
+Routes 
+
+
+
+
+
 # Basic Nested Forms Lab
 
 ## Objectives
